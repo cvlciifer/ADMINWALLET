@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:adminwallet/widgets/expenses.dart';
+import 'package:expense_app/widgets/expenses.dart';
 
 var kColorScheme = ColorScheme.fromSeed(
   seedColor: const Color.fromARGB(255, 96, 59, 181),

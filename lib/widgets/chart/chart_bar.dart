@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-//hola
 class ChartBar extends StatelessWidget {
   const ChartBar({
     super.key,
